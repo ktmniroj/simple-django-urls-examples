@@ -1,0 +1,8 @@
+{% for question in all_question %}
+<ul>
+<a href="/polls/{{question.id}}/results/ ">{{question.question_text}}</a>
+	
+</ul>
+
+
+{% endfor %}
