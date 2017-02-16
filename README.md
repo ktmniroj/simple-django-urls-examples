@@ -1,0 +1,1 @@
+# simple-django-urls-examples
